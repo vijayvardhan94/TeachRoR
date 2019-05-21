@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -26,4 +26,6 @@ Things you may want to cover:
 =======
 # TeachRoR
 Basic to Intermediate applications in RoR aimed at explaining REST concepts to beginners.
->>>>>>> d48e0dcda0c68492b51a7f2ccab9d00fb306ca0b
+Use the hello_app to view how to application controller renders a view, creating new controllers to render a new view.
+Use the toy_app to learn how to rapidly generate functionality through scaffolding. Learn about updating your database with rails db:migrate, learn about http methods and their equivalent CRUD operations.
+
