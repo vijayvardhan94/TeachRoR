@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -23,7 +22,3 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
-=======
-# TeachRoR
-Basic to Intermediate applications in RoR aimed at explaining REST concepts to beginners.
->>>>>>> d48e0dcda0c68492b51a7f2ccab9d00fb306ca0b

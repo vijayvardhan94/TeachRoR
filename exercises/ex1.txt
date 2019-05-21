@@ -1,0 +1,4 @@
+According to the default Rails page, what is the version of Ruby on your system? Confirm by running ruby -v at the command line.
+ruby 2.5.1p57 (2018-03-29 revision 63029) [x86_64-darwin18]
+What is the version of Rails? Confirm that it matches the version installed in Rails 5.2.3
+
